@@ -10,3 +10,5 @@
 
 #### Here is a screenshot of one section of the report, to view full report, click the PDF file "Google Merchandise Store Web Analytics"
 
+https://user-images.githubusercontent.com/47506446/55410940-b54da080-5532-11e9-8889-7e5d6d1558e3.png
+
