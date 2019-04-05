@@ -6,7 +6,7 @@
 
 #### I created data visualization in R with some basic plots and a map of user locations using the package maptools.
 
-#### The analysis was then put into a dashboard-looking report with Actionable Insights (just throwing buzzwords here) 
+#### The analysis was then put into a dashboard-looking report with Actionable Insights (just throwing out buzzwords here) 
 
 #### Here is a screenshot of one section of the report, to view full report, click the PDF file "Google Merchandise Store Web Analytics"
 
